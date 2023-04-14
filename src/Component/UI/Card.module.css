@@ -1,0 +1,13 @@
+.card{
+    height: 38.4rem;
+    width: 85.1rem;
+    
+    background-image: url("res.jpg");
+    
+    background-attachment: fixed;
+    background-size:cover;
+    background-repeat: no-repeat;
+
+    padding: 1rem;
+    border-radius: 0.5rem;   
+}
